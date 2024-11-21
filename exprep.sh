@@ -9,5 +9,5 @@ which python3
 cd /zenviroment
 ls
 echo $PYTHONPATH
-#$PYTHONPATH=/zenviroment/bin
+$PYTHONPATH=/zenviroment/bin
 echo $PYTHONPATH
