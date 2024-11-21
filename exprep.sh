@@ -1,7 +1,10 @@
 #!/bin/bash
 echo launching
+ls
 cd /zenviroment/bin
-source activate
-echo $PYTHONPATH
-$PYTHONPATH=/zenviroment/bin
-echo $PYTHONPATH
+ls
+
+#source activate
+#echo $PYTHONPATH
+#$PYTHONPATH=/zenviroment/bin
+#echo $PYTHONPATH
