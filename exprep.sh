@@ -1,12 +1,13 @@
 #!/bin/bash
-which python3
-ls
+#which python3
+#ls
 cd /zenviroment/bin
-ls
+#ls
 which python3
 source activate
 which python3
-
-#echo $PYTHONPATH
+cd /zenviroment
+ls
+echo $PYTHONPATH
 #$PYTHONPATH=/zenviroment/bin
-#echo $PYTHONPATH
+echo $PYTHONPATH
