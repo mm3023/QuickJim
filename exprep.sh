@@ -8,6 +8,8 @@ source activate
 which python3
 cd /zenviroment
 ls
+
+
 echo $PYTHONPATH
 $PYTHONPATH=/zenviroment/bin
 echo $PYTHONPATH
