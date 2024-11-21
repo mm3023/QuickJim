@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+#from fastapi import FastAPI
 
 import sys
 import os # if you want this directory
@@ -8,7 +8,7 @@ try:
 except ValueError:
     sys.path.append('/zenviroment/bin')
 
-
+from fastapi import FastAPI
 
 app = FastAPI()
 
