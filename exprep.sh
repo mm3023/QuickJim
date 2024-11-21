@@ -1,10 +1,12 @@
 #!/bin/bash
-echo launching
+echo which python3
 ls
 cd /zenviroment/bin
 ls
+echo which python3
+source activate
+echo which python3
 
-#source activate
 #echo $PYTHONPATH
 #$PYTHONPATH=/zenviroment/bin
 #echo $PYTHONPATH
