@@ -4,3 +4,4 @@ cd /zenviroment/bin
 source activate
 echo $PYTHONPATH
 $PYTHONPATH=/zenviroment/bin
+echo $PYTHONPATH
