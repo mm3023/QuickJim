@@ -4,9 +4,9 @@ import sys
 import os # if you want this directory
 
 try:
-    sys.path.index('/dir/path') # Or os.getcwd() for this directory
+    sys.path.index('/zenviroment/bin') # Or os.getcwd() for this directory
 except ValueError:
-    sys.path.append('/dir/path')
+    sys.path.append('/zenviroment/bin')
 
 
 
