@@ -1,4 +1,4 @@
 #!/bin/bash
 echo launching
-cd /zviroment/bin
+cd /zenviroment/bin
 source activate
